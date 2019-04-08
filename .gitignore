@@ -3,3 +3,7 @@
 
 # Python
 venv/
+__pycache__/
+
+# Domain-specific
+*.tsv
